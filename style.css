@@ -1,0 +1,23 @@
+h1 {
+    color: #025157;
+    }
+    h2 {
+    color: #46484c;
+    }
+    b {
+    color: #8b8b8bcc;
+    }
+    button {
+    background-color: #025157; 
+    border: none;
+    color: #fff;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    }
+    body {
+        background-color: #fffbf7;
+      }
+    
